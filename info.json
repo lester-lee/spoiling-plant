@@ -1,0 +1,12 @@
+{
+    "name": "spoiling-plant",
+    "version": "1.0.0",
+    "title": "Spoiling Plant",
+    "author": "hexagonaleggshell",
+    "description": "Put things in the Spoiling Plant to spoil them immediately.",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base",
+        "space-age"
+    ]
+}
