@@ -14,7 +14,8 @@ local function create_spoilage_recipe(item)
         },
         category = "spoiling",
         icon = item.icon,
-        icon_size = 64
+        icon_size = 64,
+        hide_from_player_crafting = true,
     }
 end
 
