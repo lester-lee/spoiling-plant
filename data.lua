@@ -25,7 +25,7 @@ do
 
     local graphics = {
         icon = "__spoiling-plant__/graphics/icons/spoiling-plant.png",
-        collision_box = { { -2.5, -2.5 }, { 2.5, 2.5 } },
+        collision_box = { { -2.4, -2.4 }, { 2.4, 2.4 } },
         selection_box = { { -2.5, -2.5 }, { 2.5, 2.5 } },
         drawing_box_vertical_extension = 1,
         graphics_set = {
